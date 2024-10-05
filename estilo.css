@@ -66,3 +66,11 @@ nav ul a:hover {
 .piedepagina p {
 	padding: 100px;
 }
+
+.formulario {
+	background-color: #aa847c;
+	margin-top: 100px;
+}
+.formulario p {
+	padding: 100px;
+}
